@@ -27,7 +27,7 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 
 ### Course Contents
 
-## 01. Bitcoin Protocol and Consensus: A High Level Overview
+### 01. Bitcoin Protocol and Consensus: A High Level Overview
 
 <details>
 
@@ -55,5 +55,30 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 - **Tamper-evidence:** It’s immediately obvious if data stored on the blockchain has been tampered with.
 - **Nakamoto consensus:** One has to provably spend resources when updating the blockchain.
 
+### What is Centralization?
+
+- Authorization handled by a single party
+- Data is stored by a single party
+- Think:
+    - Client-server networking
+    - Hierarchical org chart
+    - Political dynasty
+    - Central bank
+    - Figurehead
+
+![](img/01-01.png) ![](img/01-02.png)
+
+### Centralization Pros & Cons
+
+Pros:
+- Efficiency: Data is stored in one place, programs are executed once
+- Easy updates: Updates need one stamp of approval and can be force-pushed to users
+
+Cons: 
+- Lack of sovereignty: A central party may choose to use your data arbitrarily
+- One point of failure: Any hack, attack, or failure only has to happen in one place
+
 
 </details>
+
+<!-- end of 01 -->
