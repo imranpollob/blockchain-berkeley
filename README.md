@@ -14,8 +14,8 @@ Text:
 
 
 Video:
-- [Blockchain Fundamentals Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNXUhgIrfgI6E3ayShvKI-o6)
-- [Blockchain Development Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNWJVixT2vwY9-6O7kgM4het)
+- [Youtube - Blockchain Fundamentals Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNXUhgIrfgI6E3ayShvKI-o6)
+- [Youtube - Blockchain Development Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNWJVixT2vwY9-6O7kgM4het)
 - [Coursera - Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
 
 
