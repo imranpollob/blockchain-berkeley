@@ -27,8 +27,9 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 
 ### Course Contents
 
+## 01. Bitcoin Protocol and Consensus: A High Level Overview
+
 <details>
-<summary>Bitcoin Protocol and Consensus: A High Level Overview</summary>
 
 ## What is Bitcoin?
 
@@ -41,16 +42,12 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 
 ### Key Characteristics of a Currency
 
-- Durability: The currency does not lose value and is not destroyed or made irredeemable easily.
-- Portability: The currency is easy to transport from place to place.
-- Divisibility: The currency can be easily exchanged in different denominations.
-
-
-**Uniformity:** All units of the currency are identical in value.
-
-**Limited supply:** The supply of the currency can’t be arbitrarily inflated.
-
-**Acceptability:** The currency must be sufficiently widely accepted.
+- **Durability:** The currency does not lose value and is not destroyed or made irredeemable easily.
+- **Portability:** The currency is easy to transport from place to place.
+- **Divisibility:** The currency can be easily exchanged in different denominations.
+- **Uniformity:** All units of the currency are identical in value.
+- **Limited supply:** The supply of the currency can’t be arbitrarily inflated.
+- **Acceptability:** The currency must be sufficiently widely accepted.
 
 ### Key Characteristics of a Blockchain
 
