@@ -66,7 +66,8 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
     - Central bank
     - Figurehead
 
-![](img/01-01.png) ![](img/01-02.png)
+<img src="img/01-01.png" width="200"/>
+<img src="img/01-02.png" width="200"/>
 
 ### Centralization Pros & Cons
 
