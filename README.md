@@ -1,4 +1,4 @@
-# blockchain-berkeley
+# Blockchain Course from Berkeley
 
 Blockchain at Berkeley drives innovation in the blockchain industry by building an ecosystem that empowers students to make an impact through practical education, consulting for enterprise companies, and conducting open source research.
 
@@ -11,7 +11,7 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 - Get to know the club!
 
 
-### Course Content
+### Course Outline
 - Understanding blockchain via Bitcoin
     - Overview
     - History
@@ -25,6 +25,7 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 - Guest lecture on DeFi from Xcelerator team
 
 
+### Course Contents
 
 <details>
 <summary>Bitcoin Protocol and Consensus: A High Level Overview</summary>
@@ -43,15 +44,19 @@ Blockchain at Berkeley drives innovation in the blockchain industry by building 
 - Durability: The currency does not lose value and is not destroyed or made irredeemable easily.
 - Portability: The currency is easy to transport from place to place.
 - Divisibility: The currency can be easily exchanged in different denominations.
-- Uniformity: All units of the currency are identical in value.
-- Limited supply: The supply of the currency can’t be arbitrarily inflated.
-- Acceptability: The currency must be sufficiently widely accepted.
+
+
+**Uniformity:** All units of the currency are identical in value.
+
+**Limited supply:** The supply of the currency can’t be arbitrarily inflated.
+
+**Acceptability:** The currency must be sufficiently widely accepted.
 
 ### Key Characteristics of a Blockchain
 
-- Decentralized control: Communal consensus, rather than one party’s decision, dictates who gets to access or update the blockchain.
-- Tamper-evidence: It’s immediately obvious if data stored on the blockchain has been tampered with.
-- Nakamoto consensus: One has to provably spend resources when updating the blockchain.
+- **Decentralized control:** Communal consensus, rather than one party’s decision, dictates who gets to access or update the blockchain.
+- **Tamper-evidence:** It’s immediately obvious if data stored on the blockchain has been tampered with.
+- **Nakamoto consensus:** One has to provably spend resources when updating the blockchain.
 
 
 </details>
