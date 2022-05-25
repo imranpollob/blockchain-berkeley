@@ -1,85 +1,33 @@
-# Blockchain Course from Berkeley
+# Blockchain Resources
 
-Blockchain at Berkeley drives innovation in the blockchain industry by building an ecosystem that empowers students to make an impact through practical education, consulting for enterprise companies, and conducting open source research.
+Motivation for this project: 
+As a new learner of Blockchain, I found it challenging to gather a comprehensive and in-depth overview of the technology from the internet. The internet is full of data, but it's not organized enough to generate knowledge. That's why I am trying to create a complete resource guide to follow to master Blockchain.
 
-### Course Goals
+## Primary Resources
 
-- Granular understanding of Bitcoin
-- Ability to reason about unfamiliar technologies
-- Familiarity with trends & notable projects in the industry
-- Confidence to pursue opportunities for contribution
-- Get to know the club!
+Book:
+- [Mastering Blockchain: A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more, 3rd Edition](https://amzn.to/3GeLxtX)
 
 
-### Course Outline
-- Understanding blockchain via Bitcoin
-    - Overview
-    - History
-    - How it works
-    - How it’s used
-    - How it’s abused
-- Blockchain beyond Bitcoin
-    - Contextual knowledge in distributed systems
-    - Ethereum
-    - Scalability
-- Guest lecture on DeFi from Xcelerator team
+Text:
+- [Ethereum development documentation](https://ethereum.org/en/developers/docs/)
 
 
-### Course Contents
-
-### 01. Bitcoin Protocol and Consensus: A High Level Overview
-
-<details>
-
-## What is Bitcoin?
-
-### Definitions
-
-**Cryptocurrency:** A form of currency that’s stored completely digitally, and isn’t issued by a central authority. Made secure with cryptography, distributed consensus, and economic incentive alignment.
-- Bitcoin is a cryptocurrency.
-
-**Blockchain:** The data structure used to represent a cryptocurrency. Stores data in a way that allows multiple parties to access it reliably without having to trust one another.
-
-### Key Characteristics of a Currency
-
-- **Durability:** The currency does not lose value and is not destroyed or made irredeemable easily.
-- **Portability:** The currency is easy to transport from place to place.
-- **Divisibility:** The currency can be easily exchanged in different denominations.
-- **Uniformity:** All units of the currency are identical in value.
-- **Limited supply:** The supply of the currency can’t be arbitrarily inflated.
-- **Acceptability:** The currency must be sufficiently widely accepted.
-
-### Key Characteristics of a Blockchain
-
-- **Decentralized control:** Communal consensus, rather than one party’s decision, dictates who gets to access or update the blockchain.
-- **Tamper-evidence:** It’s immediately obvious if data stored on the blockchain has been tampered with.
-- **Nakamoto consensus:** One has to provably spend resources when updating the blockchain.
-
-### What is Centralization?
-
-- Authorization handled by a single party
-- Data is stored by a single party
-- Think:
-    - Client-server networking
-    - Hierarchical org chart
-    - Political dynasty
-    - Central bank
-    - Figurehead
-
-<img src="img/01-01.png" width="200"/>
-<img src="img/01-02.png" width="200"/>
-
-### Centralization Pros & Cons
-
-Pros:
-- Efficiency: Data is stored in one place, programs are executed once
-- Easy updates: Updates need one stamp of approval and can be force-pushed to users
-
-Cons: 
-- Lack of sovereignty: A central party may choose to use your data arbitrarily
-- One point of failure: Any hack, attack, or failure only has to happen in one place
+Video:
+- [Blockchain Fundamentals Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNXUhgIrfgI6E3ayShvKI-o6)
+- [Blockchain Development Decal Spring 2021](https://www.youtube.com/playlist?list=PLSONl1AVlZNWJVixT2vwY9-6O7kgM4het)
+- [Coursera - Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
 
 
-</details>
+## Roadmaps
+- [So you want to be a blockchain developer?](https://tr3y.io/articles/crypto/how2bloccchain.html)
+- [Complete Web3 Developer Roadmap - 2022](https://remote3.co/blog-post/complete-web3-developer-roadmap-2022)
+- [Blockchain Development — Zero to Hero [Guide]](https://medium.com/programmers-blockchain/blockchain-development-mega-guide-5a316e6d10df)
+- [Complete Web3.0 And Solidity Development Roadmap 2022](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/)
+- [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
-<!-- end of 01 -->
+## Resources
+- [Get started with blockchain development - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/ethereum-blockchain-development/)
+- [Blockchain Papers](https://github.com/decrypto-org/blockchain-papers)
+- [30 Blockchain Research Labs to Follow](https://medium.com/william-and-mary-blockchain-lab/30-blockchain-research-labs-to-follow-15415d94d094)
+- [The Most Important Blockchain Organizations You Should Know About](https://www.entrepreneur.com/article/328337)
